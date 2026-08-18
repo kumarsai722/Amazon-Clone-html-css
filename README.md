@@ -43,7 +43,7 @@ amazon-clone-html-css/
 ## 🔗 Live Website Link
 
 Link:   http://127.0.0.1:3000/amazon_clone.html?vscode-livepreview=true
-Githublink:
+Githublink:https://github.com/kumarsai722/Amazon-Clone-html-css/blob/main/README.md
 
 
 🎯 Learning Outcomes
