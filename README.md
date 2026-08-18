@@ -27,8 +27,11 @@ Live Demo:http://127.0.0.1:3000/amazon_clone.html?vscode-livepreview=true
 amazon-clone-html-css/
 │
 ├── index.html
+
 ├── style.css
+
 ├── images/
+
 └── README.md
 
 
@@ -43,6 +46,7 @@ amazon-clone-html-css/
 ## 🔗 Live Website Link
 
 Link:   http://127.0.0.1:3000/amazon_clone.html?vscode-livepreview=true
+
 Githublink:https://github.com/kumarsai722/Amazon-Clone-html-css/blob/main/README.md
 
 
